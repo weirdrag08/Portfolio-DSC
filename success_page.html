@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css" integrity="sha512-f8mUMCRNrJxPBDzPJx3n+Y5TC5xp6SmStstEfgsDXZJTcxBakoB5hvPLhAfJKa9rCvH+n3xpJ2vQByxLk4WP2g==" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&family=Courgette&family=Redressed&family=Sofia&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href = "css/success_page.css">
+    <title>Successful Page</title>
+    <link rel = "icon" href =  "images/checked.svg" type = "image/x-icon">
+</head>
+<body>
+
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" id="Receipt"
+        aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title ml-4 pl-4" id="exampleModalLongTitle"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-12 col-md-4 offset-sm-1">
+                            <img class="img-fluid" src="images/high-five.svg" width="80%">
+                        </div>
+                        <div class="col-12 col-md-7">
+                            <div class="row">
+                                <div class="col-10 col-md-12 offset-md-0 offset-2 p-1">
+                                    <h2>Thankyou For contacting me! </h2>
+                                </div>
+                                <div class="col-12 text-center p-1">
+                                    <h5 id="o-number"></h5>
+                                </div>
+                                <div class="col-12 text-center">
+                                    <h6><em>I'll try to contact you back asap!</em></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row">
+                        <div class="col-auto offset-2">
+                            <h3>Contact Me Summary:</h3>
+                        </div>
+                    </div>
+                    <div class="container ml-md-5">
+                        <div class="row">
+                            <div class="col-5 col-md-3 offset-md-1 text-left">
+                                <h6>Name:</h6>
+                                <h6>Email:</h6>
+                                <h6>Phone Number:</h6>
+                                <h6>Message:</h6>
+                                <h6>Mailed To:</h6>
+                                <h6>Contact Date:</h6>
+                            </div>
+                            <div class="col-6 offset-1 col-md-7 text-left">
+                                <h6 id="name"></h6>
+                                <h6 id="email"> </h6>
+                                <h6 id="phone"></h6>
+                                <h6 id="message"></h6>
+                                <h6>anand.aditya0803@gmail.com</h6>
+                                <h6 id="date_with_time"></h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer bg-warning">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-success">Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class = "container">
+        <div class = "row">
+            <div class = "col-auto  offset-1 offset-md-2">
+                <img class = "img-fluid" src = "https://i.pinimg.com/originals/b9/88/b7/b988b7c3e84e1f83ef9447157831b460.gif" alt = "Flying Rocket">
+            </div>
+        </div>
+        <div class = "row">
+            <div class = "col-auto offset-10 offset-md-5">
+                <a id = "back_to_home" href = "index.html" role = "button" class = "btn btn-success">Back to Home</a>
+            </div>
+        </div>
+    </div>
+    <script src = "contact.js"></script>
+    <script src = "success.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+   <script>
+    $(document).ready(function () {   
+    $('#exampleModalCenter').modal('toggle');
+    display_payment_details();
+    });
+</script>
+
+</body>
+</html>

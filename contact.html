@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale = 1, shrink-to-fit = no"/>
+    <meta http-equiv="x-ua-compatible" content="ie = edge" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css" integrity="sha512-f8mUMCRNrJxPBDzPJx3n+Y5TC5xp6SmStstEfgsDXZJTcxBakoB5hvPLhAfJKa9rCvH+n3xpJ2vQByxLk4WP2g==" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&family=Courgette&family=Redressed&family=Sofia&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/contact.css" />
+    <title>Contact Page</title>
+    <link rel = "icon" href =  "images/contact.svg" type = "image/x-icon"> 
+  </head>
+
+  <body>
+    <nav class="navbar navbar-dark navbar-expand-md fixed-top"> 
+      <div class="container">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="navbar-brand" href="index.html"><img src = "images/logotype-with-letter-a.svg" alt = "logo" class = "img-fluid" width = "45px"></a>
+          <div class="collapse navbar-collapse" id="Navbar">
+              <ul class="navbar-nav ml-auto">
+                  <li class="nav-item"><a class="nav-link" href="home.html"><img src="images/info.svg" width="40px" class="img-fluid"> About Me</a></li> &nbsp; &nbsp;
+                  <li class="nav-item"><a class="nav-link" href="hobbies.html"><img src="images/listening.svg" width="35px" class="img-fluid"> Hobbies</a></li> &nbsp; &nbsp;
+                  <li class="nav-item"><a class="nav-link" href="skills.html"><img src="images/medal.svg" width="38px" class="img-fluid"> Skills</a></li> &nbsp; &nbsp;
+                  <li class="nav-item active"><a class="nav-link" href="#"><img src="images/contact.svg" width="40px" class="img-fluid"> Contact Me</a></li>
+              </ul>
+          </div>
+      </div>
+  </nav>
+
+  <div class="icon-bar d-none d-sm-block">
+    <a href="https://www.facebook.com/profile.php?id=100007799649164" class="facebook"><i class="fa fa-facebook"></i></a>
+    <a href="https://twitter.com/anandAd98670736" class="twitter"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.qwiklabs.com/public_profiles/19cbd967-afda-481e-b453-8992e792755a" class="google"><i class="fa fa-google"></i></a>
+    <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+    <a href="www.youtube.com" class="youtube"><i class="fa fa-youtube"></i></a>
+    <a href="https://github.com/weirdrag08" class="github"><i class="fa fa-github"></i></a>
+    <a href="https://www.instagram.com/_adityaanand00_/" class="instagram"><i class="fa fa-instagram"></i></a>
+  </div>
+
+    <div class="container">
+      <div class="row row-content">
+
+        <div class="col-12 col-md-4 col-lg-5">
+          <img src = "images/fly_plane.gif" class = "img-fluid" alt = "Email Sent">
+        </div>
+       
+        <div class="col-12 col-md-8 col-lg-6 align-self-center">
+          <h1 class = "text-center">Drop A Message!</h1>
+          <form action="contact.php" method="post">
+            <div class="row">
+                  <div class = "col-10 offset-1">
+                    <div class="form-group">
+                      <input type="text" id="name" name="to" class="form-control" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                      <input type="text" id="email" name="email" class="form-control" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                      <input type="text" id="number" name="phone" class="form-control" placeholder="Phone">
+                    </div>
+                    <div class="form-group">
+                      <textarea name="message" id="message" cols="50" rows="100" class="form-control" placeholder="Message"></textarea>
+                    </div>
+                  </div>
+                  <div class="col-10 col-md-8 offset-1 offset-md-2">
+                    <div class="form-group">
+                     <input type="submit" name="submit" id="submit" class="btn btn-primary btn-md" value="Send Message" onclick="generate_receipt()">
+                    </div>
+                  </div>
+              </div>  
+
+            
+            </div>
+          </form>
+        </div>
+        </div>
+      </div>
+
+       
+  <div class="icon-bar-mobile d-block d-sm-none">
+    <a href="https://www.facebook.com/profile.php?id=100007799649164" class="facebook"><i class="fa fa-facebook"></i></a>
+    <a href="https://twitter.com/anandAd98670736" class="twitter"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.qwiklabs.com/public_profiles/19cbd967-afda-481e-b453-8992e792755a" class="google"><i class="fa fa-google"></i></a>
+    <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+    <a href="www.youtube.com" class="youtube"><i class="fa fa-youtube"></i></a>
+    <a href="https://github.com/weirdrag08" class="github"><i class="fa fa-github"></i></a>
+    <a href="https://www.instagram.com/_adityaanand00_/" class="instagram"><i class="fa fa-instagram"></i></a>
+  </div>
+
+     
+    <footer class="footer">
+      <div class="container">
+          <div class="row">             
+              <div class="col-6 col-md-2 offset-2 offset-md-4 align-self-center">
+              <div class="btn-group" role="group">
+                  <a class="btn btn-primary" role="button" href="tel: +91 9354147807>"><i class="fa fa-phone"></i> Call</a>
+                  <a class="btn btn-info" role="button" href=""><i class="fa fa-skype"></i> Skype</a>
+                  <a class="btn btn-success" role="button" href="mailto:anand.aditya0803@gmail.com"><i class="fa fa-envelope"></i> Email</a>
+              </div>
+              </div>
+              <div class="col-12 col-sm-6 order-first align-self-center offset-1 offset-md-0">
+                  <div class="media">
+                      <img src="images/p1.jpg" class="shadow-1" width="40%" alt="Aditya Anand"
+                          class="d-flex mr-6 img-fluid img-thumbnail rounded-circle">
+                      <div class="media-body ml-3">
+                          <h2 class="mt-0">Aditya Anand</h2>
+                          <h4>Website Author</h4>
+                          <p class="d-none d-md-block">
+                              <em>What happened happened &amp; couldn't have happened any other way. The only thing on which we have control is how perfect can we make it!</em>
+                          </p>
+                      </div>
+                  </div>
+              </div>
+    
+         </div>
+         <div class="row justify-content-center">             
+              <div class="col-auto">
+                  <p>© Copyright 2020 Aditya Anand</p>
+              </div>
+         </div>
+      </div>
+  </footer>
+  <script src = "contact.js"></script>
+  <script src = "success.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

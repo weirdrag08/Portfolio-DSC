@@ -95,6 +95,9 @@ PAGES LINKED WITH THIS: [landing.css](https://github.com/weirdrag08/Portfolio-DS
 
 ![index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-12_09_51.png)
 
+RESPONSIVENESS
+![index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-15_34_15.png)
+
 
 ## Home Page / About Me Section
 A page containing a brief introduction about me with a profile picture. 
@@ -113,6 +116,9 @@ PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/b
 
 ![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-12_11_46.png)
 
+RESPONSIVENESS
+![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_34_48.png)
+
 
 ## Hobbies Section
 A page to showcase my hobbies. My main hobby and side hobbies are separated properly and it also includes my images/ video while doing that hobby.
@@ -128,6 +134,10 @@ PAGES LINKED WITH THIS: [hobbies.css](https://github.com/weirdrag08/Portfolio-DS
 
 ![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-12_12_39.png)
 
+RESPONSIVENESS
+![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-15_35_13.png)
+
+
 ## Skill Section
 A page to showcase my skills, the things which I know, have learnt and how much I know them along with rating on star based systems.
 
@@ -141,6 +151,10 @@ TOOLS AND TECH USED:
 PAGES LINKED WITH THIS: [skills.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/skills.css)
 
 ![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-skills-html-2021-01-27-12_14_59.png)
+
+RESPONSIVENESS
+![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-skills-html-2021-01-27-15_35_35.png)
+
 
 ## Contact Me Section
 A page that includes a contact form, for someone who wants to contact me can drop the message with details and I’ll get the mail so that I can contact that person.
@@ -163,6 +177,10 @@ PAGES LINKED WITH THIS: [contact.css](https://github.com/weirdrag08/Portfolio-DS
                         [contact.php](https://github.com/weirdrag08/Portfolio-DSC/blob/master/contact.php)
 
 ![Contact Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-12_16_09.png)
+
+RESPONSIVENESS
+![Contact_Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-15_36_27.png)
+
 
 ## Success Page
 A page that confirms the successful sending of the mail in the contact page . Also it displays confirmation details of the user of the form through modal. 
@@ -198,6 +216,9 @@ TOOLS AND TECH USED:
 PAGES LINKED WITH THIS: [error_page.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/error_page.css)
 
 ![Error Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-12_20_02.png)
+
+RESPONSIVENESS
+![Error_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-15_37_40.png)
 
 
 # LEARNINGS

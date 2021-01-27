@@ -212,8 +212,8 @@ Things which were learnt along the way were =>
 ## Applications of CSS position property such as relative and absolute
  I read articles from stackoverflow and watched some videos to see it’s different application.
 
-## PHP MailHandler 
- I have surfed many youtube videos to learn PHP mailhandler function and used this in contact form to send confirmation mails to the users. 
+## PHP Mailing Function 
+ I have surfed many youtube videos to learn PHP mailing function and used this in contact form to send confirmation mails to the users. 
  
 
 # SOURCES & REFERENCES

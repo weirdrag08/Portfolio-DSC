@@ -96,6 +96,7 @@ PAGES LINKED WITH THIS: [landing.css](https://github.com/weirdrag08/Portfolio-DS
 ![index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-12_09_51.png)
 
 RESPONSIVENESS
+
 ![index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-15_34_15.png)
 
 
@@ -117,6 +118,7 @@ PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/b
 ![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-12_11_46.png)
 
 RESPONSIVENESS
+
 ![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_34_48.png)
 
 
@@ -135,6 +137,7 @@ PAGES LINKED WITH THIS: [hobbies.css](https://github.com/weirdrag08/Portfolio-DS
 ![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-12_12_39.png)
 
 RESPONSIVENESS
+
 ![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-15_35_13.png)
 
 
@@ -153,6 +156,7 @@ PAGES LINKED WITH THIS: [skills.css](https://github.com/weirdrag08/Portfolio-DSC
 ![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-skills-html-2021-01-27-12_14_59.png)
 
 RESPONSIVENESS
+
 ![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-skills-html-2021-01-27-15_35_35.png)
 
 
@@ -179,6 +183,7 @@ PAGES LINKED WITH THIS: [contact.css](https://github.com/weirdrag08/Portfolio-DS
 ![Contact Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-12_16_09.png)
 
 RESPONSIVENESS
+
 ![Contact_Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-15_36_27.png)
 
 
@@ -218,6 +223,7 @@ PAGES LINKED WITH THIS: [error_page.css](https://github.com/weirdrag08/Portfolio
 ![Error Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-12_20_02.png)
 
 RESPONSIVENESS
+
 ![Error_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-15_37_40.png)
 
 

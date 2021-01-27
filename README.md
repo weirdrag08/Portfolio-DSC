@@ -122,7 +122,7 @@ PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/b
 
 RESPONSIVENESS
 
-![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_58_16.png)
+![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_58_16.jpeg)
 
 
 ## Hobbies Section
@@ -187,7 +187,7 @@ PAGES LINKED WITH THIS: [contact.css](https://github.com/weirdrag08/Portfolio-DS
 
 RESPONSIVENESS
 
-![Contact_Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-15_36_27.png)
+![Contact_Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-15_36_27.jpeg)
 
 
 ## Success Page

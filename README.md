@@ -93,7 +93,7 @@ TOOLS AND TECH USED:
 
 PAGES LINKED WITH THIS: [landing.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/landing.css)
 
-[index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-12_09_51.png)
+![index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-12_09_51.png)
 
 
 ## Home Page / About Me Section

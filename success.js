@@ -1,32 +1,32 @@
-var transactions = [];
+var users_data = [];
 document.addEventListener('DOMContentLoaded', function(){
     var plan = localStorage.getItem('packageData'); 
     if(plan){
-        transactions = JSON.parse(plan);
+        users_data = JSON.parse(plan);
       }
-        console.log(transactions);
-        getting_order_number();
-        display_payment_details();
+        console.log(users_data);
+        getting_contact_id();
+        display_user_details();
     });
   
-function display_payment_details(){
-    var Name_of_user, Cardnumber_of_user, PurchasedDate, MailOfUser, Message;
+function display_user_details(){
+    var Name_of_user, Phone_of_user, MessageDate, MailOfUser, Message;
     Name_of_user = document.getElementById("name");
-    Cardnumber_of_user = document.getElementById("phone");
-    PurchasedDate = document.getElementById('date_with_time');
+    Phone_of_user = document.getElementById("phone");
+    MessageDate = document.getElementById('date_with_time');
     MailOfUser = document.getElementById('email');
     Message = document.getElementById('message');
     message_date=new Date();
 
-    Name_of_user.innerHTML = transactions[transactions.length-1].sender_name;  
-    Cardnumber_of_user.innerHTML = transactions[transactions.length-1].phone_number;
-    PurchasedDate.innerHTML = message_date.getDate() + "/" +  message_date.getMonth()+1 + "/" +  message_date.getFullYear();
-    MailOfUser.innerHTML = transactions[transactions.length-1].mail_from;
-    Message.innerHTML = transactions[transactions.length-1].message;
+    Name_of_user.innerHTML = users_data[users_data.length-1].sender_name;  
+    Phone_of_user.innerHTML = users_data[users_data.length-1].phone_number;
+    MessageDate.innerHTML = message_date.getDate() + "/" +  message_date.getMonth()+1 + "/" +  message_date.getFullYear();
+    MailOfUser.innerHTML = users_data[users_data.length-1].mail_from;
+    Message.innerHTML = users_data[users_data.length-1].message;
 }      
 
 
-function getting_order_number(){
-    order_number = Math.floor((Math.random() * 10e9));
-    document.getElementById('o-number').innerHTML = "Contact Id: " + order_number; 
+function getting_contact_id(){
+     var contact_id = Math.floor((Math.random() * 10e9));
+    document.getElementById('o-number').innerHTML = "Contact Id: " + contact_id; 
 }

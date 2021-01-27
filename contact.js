@@ -1,12 +1,12 @@
 function generate_receipt(){
-    purchase();
+    get_value();
 }
 
 var package = [];
 let currdata;
 var sender_name, phone_number, mail_from, message, message_date;
 
-function purchase(event){
+function get_value(event){
     sender_name = document.getElementById('name').value; 
     phone_number = document.getElementById('number').value;
     message_date = new Date();

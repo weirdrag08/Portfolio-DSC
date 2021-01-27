@@ -93,6 +93,8 @@ TOOLS AND TECH USED:
 
 PAGES LINKED WITH THIS: [landing.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/landing.css)
 
+[index](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-index-html-2021-01-27-12_09_51.png)
+
 
 ## Home Page / About Me Section
 A page containing a brief introduction about me with a profile picture. 
@@ -109,6 +111,8 @@ TOOLS AND TECH USED:
 PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/home.css)
                         [home.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/home.js) 
 
+[home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-12_11_46.png)
+
 
 ## Hobbies Section
 A page to showcase my hobbies. My main hobby and side hobbies are separated properly and it also includes my images/ video while doing that hobby.
@@ -122,6 +126,7 @@ TOOLS AND TECH USED:
 
 PAGES LINKED WITH THIS: [hobbies.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/hobbies.css)
 
+[hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-12_12_39.png)
 
 ## Skill Section
 A page to showcase my skills, the things which I know, have learnt and how much I know them along with rating on star based systems.

@@ -51,5 +51,103 @@ TOOLS AND TECH USED:
 3) CSS3 Animations & Tricks
 
 
-PAGES LINKED WITH THIS: ! [landing.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/landing.css)
+PAGES LINKED WITH THIS: [landing.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/landing.css)
+
+
+## Home Page / About Me Section
+A page containing a brief introduction about me with a profile picture. 
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3 Animations & Tricks
+
+4) Javascript - Controls the typing effect on the page.
+
+PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/home.css)
+                        [home.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/home.js) 
+
+
+## Hobbies Section
+A page to showcase my hobbies. My main hobby and side hobbies are separated properly and it also includes my images/ video while doing that hobby.
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3 Animations & Tricks - To write the name of the main hobby.
+
+PAGES LINKED WITH THIS: [hobbies.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/hobbies.css)
+
+
+## Skill Section
+A page to showcase my skills, the things which I know, have learnt and how much I know them along with rating on star based systems.
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3 Animations & Tricks
+
+PAGES LINKED WITH THIS: [skills.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/skills.css)
+
+
+## Contact Me Section
+A page that includes a contact form, for someone who wants to contact me can drop the message with details and I’ll get the mail so that I can contact that person.
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3 Animations & Tricks
+
+4) Local Storage: To take input in the form and store in the webbrowser data so that it can be used for sending mails and display confirmation modal. 
+
+5) JS- For implementing local storage and storing the values of the form.
+
+6) PHP- Mail function in PHP is used in order to send emails from the data stored in the form.
+
+PAGES LINKED WITH THIS: [contact.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/contact.css)
+                        [contact.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/contact.js)
+                        [contact.php](https://github.com/weirdrag08/Portfolio-DSC/blob/master/contact.php)
+
+
+## Success Page
+A page that confirms the successful sending of the mail in the contact page . Also it displays confirmation details of the user of the form through modal. 
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3 Animations & Tricks
+
+4) Local Storage: To extract data from local storage and display in modal.
+
+5) JS- For implementing local storage and also for displaying modal using it’s “document loaded event.
+
+6) JQuery- For calling the function when all the contents of the DOM of the page have been loaded. This leads to pop up of the modal.
+
+PAGES LINKED WITH THIS: [success_page.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/success_page.css)
+                        [success.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/success.js)
+                        
+
+## Error Page
+A page that specifies the rejection of the sending of the mail in the contact page due to internet connectivity issues or due to incomplete form filling. 
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3
+
+PAGES LINKED WITH THIS: [error_page.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/error_page.css)
+
+
 

@@ -51,10 +51,10 @@ This has been used in order for pushing and storing all the files of source code
 
    6) Each page has different files for javascript so that the overall loading time of each page is reduced.
 
-   7) Local storage is used instead of a backend service because of which the user’s privacy is maintained and their data is only saved in their Local web browser storage.
- For viewing it -
-Safari => Inspect element > Storage > Local Storage
-Chrome => Inspect > Application > Storage > Local Storage
+   7) Local storage is used instead of a backend service because of which the user’s privacy is maintained and their data is only saved in their Local web browser      storage.
+    For viewing it -
+    Safari => Inspect element > Storage > Local Storage
+    Chrome => Inspect > Application > Storage > Local Storage
 
    8) Tried to make it more accessible by adding contrasting color effects on pages so that the user doesn’t find it difficult to read or view.
 
@@ -70,7 +70,7 @@ Chrome => Inspect > Application > Storage > Local Storage
 
    14) Icons/ Svgs from different platforms such as flaticon and font awesome have been used.
 
-   15) Embedded video links and also added images for my hobbies using accordion.
+   15) Embedded video links and also added images for my hobbies using nav-pills component of Bootstrap.
 
    16) Provided social media icons bar on every page i.e. fixed on the left in the large viewport and fixed at the bottom in the smaller viewport.
 

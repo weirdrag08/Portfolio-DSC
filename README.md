@@ -1,11 +1,11 @@
 # Portfolio-DSC
 
 
-# MOTIVATION
+# Motivation
 
 This is a portfolio, which is based on me, my skills , my hobbies and my contact.
 
-# COMPONENTS
+# Components
 
 ## HTML (HTML5) => 
 Have used HTML to put the content inside the website.

@@ -111,7 +111,7 @@ TOOLS AND TECH USED:
 PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/home.css)
                         [home.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/home.js) 
 
-[home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-12_11_46.png)
+![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-12_11_46.png)
 
 
 ## Hobbies Section
@@ -126,7 +126,7 @@ TOOLS AND TECH USED:
 
 PAGES LINKED WITH THIS: [hobbies.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/hobbies.css)
 
-[hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-12_12_39.png)
+![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-12_12_39.png)
 
 ## Skill Section
 A page to showcase my skills, the things which I know, have learnt and how much I know them along with rating on star based systems.
@@ -140,6 +140,7 @@ TOOLS AND TECH USED:
 
 PAGES LINKED WITH THIS: [skills.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/skills.css)
 
+![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-skills-html-2021-01-27-12_14_59.png)
 
 ## Contact Me Section
 A page that includes a contact form, for someone who wants to contact me can drop the message with details and I’ll get the mail so that I can contact that person.
@@ -161,6 +162,7 @@ PAGES LINKED WITH THIS: [contact.css](https://github.com/weirdrag08/Portfolio-DS
                         [contact.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/contact.js)
                         [contact.php](https://github.com/weirdrag08/Portfolio-DSC/blob/master/contact.php)
 
+![Contact Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-12_16_09.png)
 
 ## Success Page
 A page that confirms the successful sending of the mail in the contact page . Also it displays confirmation details of the user of the form through modal. 
@@ -181,6 +183,7 @@ TOOLS AND TECH USED:
 PAGES LINKED WITH THIS: [success_page.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/success_page.css)
                         [success.js](https://github.com/weirdrag08/Portfolio-DSC/blob/master/success.js)
                         
+![Success Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-success-page-html-2021-01-27-12_18_17.png)
 
 ## Error Page
 A page that specifies the rejection of the sending of the mail in the contact page due to internet connectivity issues or due to incomplete form filling. 
@@ -194,6 +197,7 @@ TOOLS AND TECH USED:
 
 PAGES LINKED WITH THIS: [error_page.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/error_page.css)
 
+![Error Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-12_20_02.png)
 
 
 # LEARNINGS

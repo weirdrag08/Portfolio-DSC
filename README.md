@@ -4,7 +4,7 @@
    https://mywebsite0408.000webhostapp.com/
 
 ## Intro Video Link: 
-  How to travel through a website!
+   Please watch the video to traverse the website with ease ;-)
   
    https://drive.google.com/file/d/1T1ubZgXpZeuU-7_IUhp7fL76Nzwsvj6F/view?usp=sharing
 

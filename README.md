@@ -1,11 +1,11 @@
 # Portfolio-DSC
 
 
-# Motivation
+# MOTIVATION
 
 This is a portfolio, which is based on me, my skills , my hobbies and my contact.
 
-# Components
+# COMPONENTS
 
 ## HTML (HTML5) => 
 Have used HTML to put the content inside the website.
@@ -36,4 +36,20 @@ This has been used in order for pushing and storing all the files of source code
 
 ## 000webhost => 
 000webhost provides hosting services to my website as it includes a PHP mail handler that is not provided on github pages.
+
+
+# FLOW OF WEBSITE 
+
+## Landing Page
+It is a page designed with the aim to increase the overall beauty of the website and to attract the user at glance.
+
+TOOLS AND TECH USED: 
+1) Bootstrap 4
+
+2) HTML 5
+
+3) CSS3 Animations & Tricks
+
+
+PAGES LINKED WITH THIS: ! [landing.css](https://github.com/weirdrag08/Portfolio-DSC/blob/master/css/landing.css)
 

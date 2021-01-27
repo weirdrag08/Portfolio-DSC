@@ -1,12 +1,11 @@
 # Portfolio-DSC
 
 # Website Link: 
-    https://mywebsite0408.000webhostapp.com/
+   https://mywebsite0408.000webhostapp.com/
 
 ## Intro Video Link: 
   To get a gist of website and code. 
-
-    https://drive.google.com/file/d/1T1ubZgXpZeuU-7_IUhp7fL76Nzwsvj6F/view?usp=sharing
+   https://drive.google.com/file/d/1T1ubZgXpZeuU-7_IUhp7fL76Nzwsvj6F/view?usp=sharing
 
 
 # Motivation

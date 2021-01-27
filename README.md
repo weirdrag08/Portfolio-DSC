@@ -38,6 +38,46 @@ This has been used in order for pushing and storing all the files of source code
 000webhost provides hosting services to my website as it includes a PHP mail handler that is not provided on github pages.
 
 
+# SALIENT FEATURES
+    1) Have provided icons for each of the pages in the head section in order to be displayed along with the title of that page.
+
+2) Navigation is provided in the header as well as footer so that the user can navigate easily between the pages either backwards or forwards.
+
+3) Video provided in order to clear any confusion while traversing the website .
+
+4) An error page and success page provided to let the user know about their form filling that was it a success or a failure.
+
+5) Have a responsive design at least on 3 platforms (xs, md, lg).
+
+6) Each page has different files for javascript so that the overall loading time of each page is reduced.
+
+7) Local storage is used instead of a backend service because of which the user’s privacy is maintained and their data is only saved in their Local web browser storage.
+ For viewing it -
+Safari => Inspect element > Storage > Local Storage
+Chrome => Inspect > Application > Storage > Local Storage
+
+8) Tried to make it more accessible by adding contrasting color effects on pages so that the user doesn’t find it difficult to read or view.
+
+9) Used Beautiful and neat fonts so that users will be able to read properly.
+
+10) I have tried to make the website more viewable and attractive by only including the crux points or by using different css styling effects.
+
+11) CSS - text and image animations are added.
+
+12) Javascript typing effect is added on the home page. 
+
+13) PHP Mail Handler is used in order to generate mails after form filling of the contact page.
+
+14) Icons/ Svgs from different platforms such as flaticon and font awesome have been used.
+
+15) Embedded video links and also added images for my hobbies using accordion.
+
+16) Provided social media icons bar on every page i.e. fixed on the left in the large viewport and fixed at the bottom in the smaller viewport.
+
+17) I have tried to give the profile picture on the home page and the video on hobbies page, a 3-D look by using CSS box-shadow property and it’s translate property.
+
+
+
 # FLOW OF WEBSITE 
 
 ## Landing Page
@@ -151,3 +191,25 @@ PAGES LINKED WITH THIS: [error_page.css](https://github.com/weirdrag08/Portfolio
 
 
 
+# LEARNINGS
+Things which were learnt along the way were =>
+ 
+## JS typing effect
+ I watched 4 youtube videos to learn how many ways this effect can be created.
+
+## Bootstrap masking property
+ It was used on the Landing page to give a contrast to the content.
+ 
+## Applications of CSS position property such as relative and absolute
+ I read articles from stackoverflow and watched some videos to see it’s different application.
+
+
+
+# SOURCES & REFERENCES
+W3schools
+
+Stackoverflow
+
+getbootstrap.com
+
+Css tricks

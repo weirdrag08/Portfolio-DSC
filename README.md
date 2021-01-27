@@ -122,7 +122,7 @@ PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/b
 
 RESPONSIVENESS
 
-![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_58_16.jpeg)
+![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-mywebsite0408-000webhostapp-home-html-2021-01-27-16_25_51.png)
 
 
 ## Hobbies Section
@@ -141,7 +141,7 @@ PAGES LINKED WITH THIS: [hobbies.css](https://github.com/weirdrag08/Portfolio-DS
 
 RESPONSIVENESS
 
-![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-hobbies-html-2021-01-27-15_35_13.png)
+![hobbies](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-mywebsite0408-000webhostapp-hobbies-html-2021-01-27-16_26_28.png)
 
 
 ## Skill Section
@@ -160,7 +160,7 @@ PAGES LINKED WITH THIS: [skills.css](https://github.com/weirdrag08/Portfolio-DSC
 
 RESPONSIVENESS
 
-![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-skills-html-2021-01-27-15_35_35.png)
+![Skills](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-mywebsite0408-000webhostapp-skills-html-2021-01-27-16_26_52.png)
 
 
 ## Contact Me Section
@@ -187,7 +187,7 @@ PAGES LINKED WITH THIS: [contact.css](https://github.com/weirdrag08/Portfolio-DS
 
 RESPONSIVENESS
 
-![Contact_Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-contact-html-2021-01-27-15_36_27.jpeg)
+![Contact_Me](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-mywebsite0408-000webhostapp-contact-html-2021-01-27-16_27_18.png)
 
 
 ## Success Page
@@ -211,6 +211,15 @@ PAGES LINKED WITH THIS: [success_page.css](https://github.com/weirdrag08/Portfol
                         
 ![Success Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-success-page-html-2021-01-27-12_18_17.png)
 
+![Success_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-mywebsite0408-000webhostapp-success-page-html-2021-01-27-16_23_58.png)
+
+RESPONSIVENESS:
+
+![Success_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-success-page-html-2021-01-27-16_35_08%20(1).png)
+
+![Success_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-mywebsite0408-000webhostapp-success-page-html-2021-01-27-16_38_18.png)
+
+
 ## Error Page
 A page that specifies the rejection of the sending of the mail in the contact page due to internet connectivity issues or due to incomplete form filling. 
 
@@ -227,7 +236,7 @@ PAGES LINKED WITH THIS: [error_page.css](https://github.com/weirdrag08/Portfolio
 
 RESPONSIVENESS
 
-![Error_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-15_37_40.png)
+![Error_Page](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-error-page-html-2021-01-27-16_33_55.png)
 
 
 # LEARNINGS

@@ -119,7 +119,7 @@ PAGES LINKED WITH THIS: [home.css](https://github.com/weirdrag08/Portfolio-DSC/b
 
 RESPONSIVENESS
 
-![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_34_48.png)
+![home](https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/screencapture-127-0-0-1-5500-home-html-2021-01-27-15_58_16.png)
 
 
 ## Hobbies Section
